@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "element-ui": "^2.3.4",
-    "vue": "^2.5.16"
+    "vue": "^3.0.0"
   },
   "engines": {
     "node": ">=6"
